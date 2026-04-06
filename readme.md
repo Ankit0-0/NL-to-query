@@ -49,13 +49,7 @@ POST `/api/v1/query`
   "query": "Show unpaid invoices above 50000"
 }
 ```
-POST `/api/v1/query`
 
-```json
-{
-  "query": "Show unpaid invoices above 50000"
-}
-```
 query created for this req: 
 ```json
 {
