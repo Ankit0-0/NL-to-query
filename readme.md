@@ -5,6 +5,12 @@ https://drive.google.com/file/d/1OrhHWb6zOEmiFWT9FmUCtzHlI9kvprOa/view?usp=
 # Natural Language to structured query:
 
 A schema-aware system that converts natural language into validated structured queries and executes them deterministically over data.
+> [!Note]
+> The query execution and validation are deterministic and controlled by the system, not the LLM.
+> The Hugging Face LLM can be replaced with superior models like OpenAI or Anthropic models.
+> This is a demo project.
+
+
 
 ## Overview
 
