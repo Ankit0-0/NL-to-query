@@ -1,0 +1,242 @@
+[
+  {
+    "invoice_id": "INV-1001",
+    "customer": "Acme Corp",
+    "amount": 18500,
+    "status": "paid",
+    "region": "North",
+    "date": "2026-02-03"
+  },
+  {
+    "invoice_id": "INV-1002",
+    "customer": "Globex Ltd",
+    "amount": 72000,
+    "status": "unpaid",
+    "region": "West",
+    "date": "2026-02-05"
+  },
+  {
+    "invoice_id": "INV-1003",
+    "customer": "Initech",
+    "amount": 54000,
+    "status": "overdue",
+    "region": "South",
+    "date": "2026-02-07"
+  },
+  {
+    "invoice_id": "INV-1004",
+    "customer": "Umbrella Corp",
+    "amount": 12500,
+    "status": "paid",
+    "region": "East",
+    "date": "2026-02-09"
+  },
+  {
+    "invoice_id": "INV-1005",
+    "customer": "Soylent Systems",
+    "amount": 91000,
+    "status": "unpaid",
+    "region": "North",
+    "date": "2026-02-11"
+  },
+  {
+    "invoice_id": "INV-1006",
+    "customer": "Wayne Enterprises",
+    "amount": 46000,
+    "status": "paid",
+    "region": "West",
+    "date": "2026-02-12"
+  },
+  {
+    "invoice_id": "INV-1007",
+    "customer": "Stark Industries",
+    "amount": 88000,
+    "status": "overdue",
+    "region": "South",
+    "date": "2026-02-14"
+  },
+  {
+    "invoice_id": "INV-1008",
+    "customer": "Oscorp",
+    "amount": 27500,
+    "status": "paid",
+    "region": "East",
+    "date": "2026-02-15"
+  },
+  {
+    "invoice_id": "INV-1009",
+    "customer": "Wonka Labs",
+    "amount": 61000,
+    "status": "unpaid",
+    "region": "North",
+    "date": "2026-02-18"
+  },
+  {
+    "invoice_id": "INV-1010",
+    "customer": "Tyrell Corp",
+    "amount": 33000,
+    "status": "paid",
+    "region": "West",
+    "date": "2026-02-19"
+  },
+  {
+    "invoice_id": "INV-1011",
+    "customer": "Acme Corp",
+    "amount": 97000,
+    "status": "overdue",
+    "region": "South",
+    "date": "2026-02-21"
+  },
+  {
+    "invoice_id": "INV-1012",
+    "customer": "Globex Ltd",
+    "amount": 15000,
+    "status": "paid",
+    "region": "East",
+    "date": "2026-02-22"
+  },
+  {
+    "invoice_id": "INV-1013",
+    "customer": "Initech",
+    "amount": 44000,
+    "status": "unpaid",
+    "region": "North",
+    "date": "2026-02-24"
+  },
+  {
+    "invoice_id": "INV-1014",
+    "customer": "Umbrella Corp",
+    "amount": 68000,
+    "status": "paid",
+    "region": "West",
+    "date": "2026-02-25"
+  },
+  {
+    "invoice_id": "INV-1015",
+    "customer": "Soylent Systems",
+    "amount": 52000,
+    "status": "overdue",
+    "region": "South",
+    "date": "2026-02-26"
+  },
+  {
+    "invoice_id": "INV-1016",
+    "customer": "Wayne Enterprises",
+    "amount": 21000,
+    "status": "paid",
+    "region": "East",
+    "date": "2026-02-28"
+  },
+  {
+    "invoice_id": "INV-1017",
+    "customer": "Stark Industries",
+    "amount": 110000,
+    "status": "unpaid",
+    "region": "North",
+    "date": "2026-03-01"
+  },
+  {
+    "invoice_id": "INV-1018",
+    "customer": "Oscorp",
+    "amount": 39500,
+    "status": "paid",
+    "region": "West",
+    "date": "2026-03-03"
+  },
+  {
+    "invoice_id": "INV-1019",
+    "customer": "Wonka Labs",
+    "amount": 84500,
+    "status": "overdue",
+    "region": "South",
+    "date": "2026-03-05"
+  },
+  {
+    "invoice_id": "INV-1020",
+    "customer": "Tyrell Corp",
+    "amount": 26000,
+    "status": "unpaid",
+    "region": "East",
+    "date": "2026-03-06"
+  },
+  {
+    "invoice_id": "INV-1021",
+    "customer": "Acme Corp",
+    "amount": 58000,
+    "status": "paid",
+    "region": "North",
+    "date": "2026-03-08"
+  },
+  {
+    "invoice_id": "INV-1022",
+    "customer": "Globex Ltd",
+    "amount": 47000,
+    "status": "overdue",
+    "region": "West",
+    "date": "2026-03-09"
+  },
+  {
+    "invoice_id": "INV-1023",
+    "customer": "Initech",
+    "amount": 13000,
+    "status": "paid",
+    "region": "South",
+    "date": "2026-03-10"
+  },
+  {
+    "invoice_id": "INV-1024",
+    "customer": "Umbrella Corp",
+    "amount": 76000,
+    "status": "unpaid",
+    "region": "East",
+    "date": "2026-03-12"
+  },
+  {
+    "invoice_id": "INV-1025",
+    "customer": "Soylent Systems",
+    "amount": 35000,
+    "status": "paid",
+    "region": "North",
+    "date": "2026-03-14"
+  },
+  {
+    "invoice_id": "INV-1026",
+    "customer": "Wayne Enterprises",
+    "amount": 93000,
+    "status": "overdue",
+    "region": "West",
+    "date": "2026-03-15"
+  },
+  {
+    "invoice_id": "INV-1027",
+    "customer": "Stark Industries",
+    "amount": 56000,
+    "status": "paid",
+    "region": "South",
+    "date": "2026-03-17"
+  },
+  {
+    "invoice_id": "INV-1028",
+    "customer": "Oscorp",
+    "amount": 24000,
+    "status": "unpaid",
+    "region": "East",
+    "date": "2026-03-19"
+  },
+  {
+    "invoice_id": "INV-1029",
+    "customer": "Wonka Labs",
+    "amount": 66000,
+    "status": "paid",
+    "region": "North",
+    "date": "2026-03-21"
+  },
+  {
+    "invoice_id": "INV-1030",
+    "customer": "Tyrell Corp",
+    "amount": 48000,
+    "status": "overdue",
+    "region": "West",
+    "date": "2026-03-23"
+  }
+]
